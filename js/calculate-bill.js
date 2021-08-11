@@ -61,4 +61,3 @@ billTotalSpanElement.classList.add("warning");
 calculateBtn.addEventListener("click", calculateBtnClicked); 
 
 //link the function to a click event on the calculate button
-
