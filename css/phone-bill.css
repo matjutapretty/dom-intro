@@ -1,0 +1,14 @@
+.total {
+    background-color: cyan;
+    font-size: 30pt;
+    color: darkkhaki;
+    margin: auto;
+    padding: 1em;
+    width: 10em;
+}
+button {
+    padding: 1em;
+    font-size: 20px;
+    color: rgb(189, 160, 204);
+    background-color: darkslategrey;
+}
